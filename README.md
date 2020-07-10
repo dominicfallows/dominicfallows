@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi, I'm Dominic, a Technical Lead and Senior Developer for web, mobile and cloud apps. I'm an experienced senior developer, leader and life-long enthusiast of technology, software engineering and business.
 
-<!--
-**dominicfallows/dominicfallows** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have been working in technology and business for over 16 years and have a proven track record in using latest technologies to develop and deliver web, mobile and cloud solutions.
 
-Here are some ideas to get you started:
+### I create tools and experiences for people
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy creating tools and experiences that make life easier for people, by focusing on delivering value to the user and using creative problem solving. I architect, develop and lead the creation of well-designed, efficient code using best software development practices.
+
+### I help build happy and productive teams
+
+I love being part of great teams. Building teams is a joint effort but I do my part to help focus businesses so that we can build, manage and motivate cross-skilled teams. I've done this as both a consultant and in-house. I'm an advocate for building happy and productive teams, with a healthy work-life balance, by keeping things simple and taking an agile approach to life and projects.
+
+Read more on my site at [dominicfallows.uk](https://dominicfallows.uk)
