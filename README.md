@@ -1,6 +1,6 @@
-## Hi, I'm Dominic, a Technical Lead and Senior Developer for web, mobile and cloud apps. I'm an experienced senior developer, leader and life-long enthusiast of technology, software engineering and business.
+## Hi, I'm Dominic, an experienced technical leader and senior software engineer for cross-platform web, mobile, desktop and cloud apps, products and teams. I’m a life-long enthusiast of technology, software engineering and business.
 
-I have been working in technology and business for over 16 years and have a proven track record in using latest technologies to develop and deliver web, mobile and cloud solutions.
+I have been working in technology and business for over 18 years and have a proven track record in using latest technologies to develop and deliver cross-platform web, mobile, desktop and cloud solutions.
 
 ### I create tools and experiences for people
 
